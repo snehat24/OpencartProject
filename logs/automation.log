@@ -1,0 +1,10 @@
+12:26:42.971 [main] INFO  Testcases.TC02_Login - Filling valid login credentials
+12:26:44.638 [main] INFO  Testcases.TC02_Login - Successfully logged in
+13:05:09.181 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\OpencartProject\master.xml"
+13:05:16.803 [main] INFO  Testcases.TC02_Login - Redirecting to LoginPage
+13:05:17.743 [main] INFO  Testcases.TC02_Login - Filling valid login credentials
+13:05:19.457 [main] INFO  Testcases.TC02_Login - Successfully logged in
+13:23:41.143 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\OpencartProject\master.xml"
+13:23:48.388 [main] INFO  Testcases.TC02_Login - Redirecting to LoginPage
+13:23:49.341 [main] INFO  Testcases.TC02_Login - Filling valid login credentials
+13:23:51.028 [main] INFO  Testcases.TC02_Login - Successfully logged in

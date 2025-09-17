@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-11T13:23:41 IST" name="Suite" finished-at="2025-09-11T13:23:51 IST" duration-ms="9976">
+    <groups>
+      <group name="Sanity">
+        <method signature="TC02_Login.Logintest()[pri:0, instance:Testcases.TC02_Login@598bd2ba]" name="Logintest" class="Testcases.TC02_Login"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC02_Login.Logintest()[pri:0, instance:Testcases.TC02_Login@598bd2ba]" name="Logintest" class="Testcases.TC02_Login"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2025-09-11T13:23:41 IST" name="Test" finished-at="2025-09-11T13:23:51 IST" duration-ms="9976">
+      <class name="Testcases.TC02_Login">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:Testcases.TC02_Login@598bd2ba]" started-at="2025-09-11T13:23:42 IST" name="setup" finished-at="2025-09-11T13:23:48 IST" duration-ms="6314" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Logintest()[pri:0, instance:Testcases.TC02_Login@598bd2ba]" started-at="2025-09-11T13:23:48 IST" name="Logintest" finished-at="2025-09-11T13:23:51 IST" duration-ms="2653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testcases.TC02_Login@598bd2ba]" started-at="2025-09-11T13:23:51 IST" name="tearDown" finished-at="2025-09-11T13:23:51 IST" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testcases.TC02_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
